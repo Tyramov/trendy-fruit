@@ -16,29 +16,39 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 body {
   margin: 0;
 }
 
 h2 {
   margin: 0;
-  text-align: center;
 }
 
 .watermelon {
   background-color: #e97065;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
 }
 
 .starfruit {
   background-color: #fbd25e;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
 }
 
 .persimmon {
   background-color: #e86033;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+
+.font-1 {
+  font-family: "Rammetto One", cursive;
+}
+
+.font-2 {
+  font-family: "Gravitas One", cursive;
+}
+
+.font-3 {
+  font-family: Comfortaa, cursive;
 }
